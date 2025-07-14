@@ -7,13 +7,13 @@
 
 <div align="center">
 
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
-  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)]([(https://t.me/dybko_s)])</a>
 
 </div>
 
 * Занимаюсь аналитикой данных 📈
 * Готов к сотрудничеству 🤝
+* Мои проекты 👇: 
 
 <!--
 **sergeyDybko/sergeyDybko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
